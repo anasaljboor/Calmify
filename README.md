@@ -408,28 +408,11 @@ fun score(): Int {
 
 ---
 
-## 👥 Team
-
 **Developers**
-- **Faris Bani Hani** - Mobile Application, System Architecture
-- **Anas Al Jboor** - Backend Services, IoT Integration
+- **Anas Al Jboor** 
 
-**Academic Supervision**
-- **Prof. Julia Schnitzer** - Project Supervisor
-
-**Institution**  
-Technische Hochschule Brandenburg (THB)  
-Faculty of Informatics and Media  
-Course: Cross-Device Interaction (CDI)
 
 **Project Timeline**  
 September 2025 - February 2026
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
